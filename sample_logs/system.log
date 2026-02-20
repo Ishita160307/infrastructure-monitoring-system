@@ -1,0 +1,46 @@
+INFO 19:50:00 User login successful from 192.168.1.10
+WARNING 19:50:02 Failed login attempt from 10.0.0.5
+WARNING 19:50:03 Failed login attempt from 10.0.0.5
+ERROR 19:50:05 Unauthorized access attempt
+ERROR 19:50:07 Disk space critically low
+INFO 20:21:20 System heartbeat OK
+INFO 20:21:21 System heartbeat OK
+ERROR 20:21:21 Disk space critically low
+INFO 20:21:22 System heartbeat OK
+INFO 20:21:23 System heartbeat OK
+INFO 20:21:23 System heartbeat OK
+INFO 20:21:24 System heartbeat OK
+INFO 20:21:25 System heartbeat OK
+ERROR 20:21:25 Disk space critically low
+INFO 20:21:26 System heartbeat OK
+ERROR 20:21:27 Disk space critically low
+INFO 20:21:28 System heartbeat OK
+WARNING 20:21:28 Failed login attempt from 192.168.1.10
+INFO 20:21:29 System heartbeat OK
+WARNING 20:21:30 Failed login attempt from 203.0.113.9
+INFO 20:21:30 System heartbeat OK
+ERROR 20:21:31 Disk space critically low
+ERROR 20:21:32 Disk space critically low
+INFO 20:21:33 System heartbeat OK
+WARNING 20:21:33 Failed login attempt from 203.0.113.9
+INFO 20:21:34 System heartbeat OK
+INFO 20:21:35 System heartbeat OK
+WARNING 20:21:35 Failed login attempt from 172.16.0.3
+INFO 20:21:36 System heartbeat OK
+WARNING 20:21:37 Failed login attempt from 10.0.0.5
+INFO 20:21:38 System heartbeat OK
+WARNING 20:21:38 Failed login attempt from 203.0.113.9
+WARNING 20:21:39 Failed login attempt from 172.16.0.3
+INFO 20:21:40 System heartbeat OK
+ERROR 20:21:40 Disk space critically low
+ERROR 20:21:41 Disk space critically low
+WARNING 20:21:42 Failed login attempt from 10.0.0.5
+ERROR 20:21:42 Disk space critically low
+INFO 20:21:43 System heartbeat OK
+ERROR 20:21:44 Disk space critically low
+INFO 20:21:45 System heartbeat OK
+ERROR 20:21:45 Disk space critically low
+ERROR 20:21:46 Disk space critically low
+ERROR 20:21:47 Disk space critically low
+INFO 20:21:47 System heartbeat OK
+WARNING 20:21:48 Failed login attempt from 172.16.0.3

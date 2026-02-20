@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+alerts/incident_log.txt
+alerts/incident_log.jsonl
+alerts/dashboard_*.png

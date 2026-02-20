@@ -1,0 +1,8 @@
+{
+  "failed_login_threshold": 2,
+  "failed_login_window_seconds": 300,
+  "cooldown_seconds": 5,
+  "error_keywords": [ "Disk space critically low", "Unauthorized access attempt" ],
+  "alert_output_text": "alerts/incident_log.txt",
+  "alert_output_jsonl": "alerts/incident_log.jsonl"
+}
